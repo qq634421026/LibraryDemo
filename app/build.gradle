@@ -31,6 +31,7 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
-    compile(name: 'shoplibrary-release', ext: 'aar')
+    compile 'com.github.qq634421026:LibraryDemo:v1.0'
+//    compile(name: 'shoplibrary-release', ext: 'aar')
 //    compile project(':shoplibrary')
 }
