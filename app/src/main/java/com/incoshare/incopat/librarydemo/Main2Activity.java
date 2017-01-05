@@ -13,4 +13,7 @@ public class Main2Activity extends AppCompatActivity {
         TextView data = (TextView) findViewById(R.id.data);
         data.setText(getIntent().getStringExtra("data"));
     }
+    private void get(){
+
+    }
 }
