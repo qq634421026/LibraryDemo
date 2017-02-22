@@ -15,8 +15,10 @@ public class BActivity extends AppCompatActivity {
 
     public void goIndex(View v) {
         Intent intent = new Intent();
-        intent.setAction("com.incoshare.incopat.librarydemo");
-        intent.addCategory("com.incoshare.incopat.librarydemo.category");
+        //intent.setAction("com.incoshare.incopat.librarydemo");
+        intent.setAction("android.intent.action.MAIN");
+        //intent.addCategory("com.incoshare.incopat.librarydemo.category");
+        intent.addCategory("hahah");
         intent.putExtra("data", "hahaha");
         startActivity(intent);
     }
