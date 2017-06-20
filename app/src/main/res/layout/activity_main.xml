@@ -4,12 +4,20 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.incoshare.incopat.librarydemo.MainActivity">
+    tools:context="com.incoshare.incopat.librarydemo.MainActivity"
+    >
 
-    <ImageButton
-        android:id="@+id/index"
-        android:onClick="goLibrary"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/index" />
+  <ImageButton
+      android:id="@+id/index"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@drawable/index"
+      android:onClick="goLibrary"
+      />
+  <TextView
+      android:id="@+id/text"
+      android:layout_width="wrap_content"
+      android:layout_height="match_parent"
+      android:text="asdsa"
+      />
 </RelativeLayout>
