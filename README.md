@@ -6,5 +6,6 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2e811c848f7e42b087db344b7c083c9a)](https://www.codacy.com/app/qq634421026/LibraryDemo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=qq634421026/LibraryDemo&amp;utm_campaign=Badge_Grade)
 
+[![Build Status](https://travis-ci.org/qq634421026/LibraryDemo.svg?branch=master)](https://travis-ci.org/qq634421026/LibraryDemo)
 
 Library
