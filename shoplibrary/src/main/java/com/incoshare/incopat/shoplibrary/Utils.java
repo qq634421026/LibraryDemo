@@ -9,6 +9,6 @@ import android.util.Log;
 public class Utils {
   public static int getnum() {
     Log.i("tag", "=========hello");
-    return 1;
+    return 2;
   }
 }
