@@ -8,4 +8,6 @@
 
 [![Build Status](https://travis-ci.org/qq634421026/LibraryDemo.svg?branch=master)](https://travis-ci.org/qq634421026/LibraryDemo)
 
+[![作者\](https://img.shields.io/badge/author-aroen-7ad6fd.svg)](http://www.aroenzhang.online)
 Library
+
